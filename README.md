@@ -4,8 +4,14 @@ Demo for testing mmdetection and YOLO v8 in the roboflow "Soccer Player Detectio
 
 ## Dataset
 
-The dataset is available at [Roboflow](https://universe.roboflow.com/prestona/soccer-player-detection-pk7eg).
+The dataset is available at [Roboflow](https://universe.roboflow.com/prestona/soccer-player-detection-pk7eg). The data consists in images containing screenshots of soccer games streaming. The classes are the soccer players, goal keepers, referee/staff and the ball. The dataset was splitted in 429 training images, 124 validation images and 62 test images.
 
 ## Models
 
-YOLO v8m was used in this project. 
+YOLO v8m and RTMDet were compared in this project. 
+
+## Results
+
+| Model | Set | MAP-50 |
+|-------|-----|--------|
+| RTMDet| Val | 0.6860 |
