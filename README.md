@@ -8,10 +8,11 @@ The dataset is available at [Roboflow](https://universe.roboflow.com/prestona/so
 
 ## Models
 
-YOLO v8m and RTMDet were compared in this project. 
+Models evaluated: YOLO v8m and RTMDet.
 
 ## Results
 
-| Model | Set | MAP-50 |
-|-------|-----|--------|
-| RTMDet| Val | 0.6860 |
+| Model   | Set | Epochs | MAP-50 |
+|---------|-----|--------|--------|
+| RTMDet  | Val |   300  | 0.726  |
+| YOLO v8 | Val |   300  | 0.962  |
