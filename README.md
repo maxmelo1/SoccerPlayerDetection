@@ -14,5 +14,5 @@ Models evaluated: YOLO v8m and RTMDet.
 
 | Model   | Set | Epochs | MAP-50 |
 |---------|-----|--------|--------|
-| RTMDet  | Val |   300  | 0.726  |
+| RTMDet  | Val |   300  | 0.785  |
 | YOLO v8 | Val |   300  | 0.962  |
