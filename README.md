@@ -16,3 +16,13 @@ Models evaluated: YOLO v8m and RTMDet.
 |---------|-----|--------|--------|
 | RTMDet  | Val |   300  | 0.785  |
 | YOLO v8 | Val |   300  | 0.962  |
+
+### Visual results
+
+- Original image:
+
+![RTMDet result](imgs/798b45_3_7_png_jpg.rf.65da737c630bf725764deff92ce8ce5d.jpg)
+
+- RTMDet inference
+
+ ![RTMDet result](imgs/798b45_3_7_png_jpg.rf.65da737c630bf725764deff92ce8ce5d_rtmdet.jpg)
