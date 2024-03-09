@@ -1,5 +1,5 @@
 # SoccerPlayerDetection
-Demo for testing mmdetection and YOLO v8 in the roboflow "Soccer Player Detection Computer Vision Project" tutorial dataset
+Demo for testing mmdetection and YOLO v8 in the roboflow "Soccer Player Detection Computer Vision Project" tutorial dataset.
 
 
 ## Dataset
@@ -16,6 +16,7 @@ Models evaluated: YOLO v8m and RTMDet.
 |---------|-----|--------|--------|
 | RTMDet  | Val |   300  | 0.785  |
 | YOLO v8 | Val |   300  | 0.962  |
+| TOOD-r50| Val |   300  | 0.684  |
 
 ### Visual results
 
