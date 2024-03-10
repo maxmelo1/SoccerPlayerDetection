@@ -1,4 +1,5 @@
-# SoccerPlayerDetection
+# Soccer Player Detection with Deep Learning
+
 Demo for testing mmdetection and YOLO v8 in the roboflow "Soccer Player Detection Computer Vision Project" tutorial dataset.
 
 
@@ -8,7 +9,7 @@ The dataset is available at [Roboflow](https://universe.roboflow.com/prestona/so
 
 ## Models
 
-Models evaluated: YOLO v8m and RTMDet.
+Models evaluated: YOLO v8, RTMDet and TOOD.
 
 ## Results
 
@@ -16,7 +17,7 @@ Models evaluated: YOLO v8m and RTMDet.
 |---------|-----|--------|--------|
 | RTMDet  | Val |   300  | 0.785  |
 | YOLO v8 | Val |   300  | 0.962  |
-| TOOD-r50| Val |   300  | 0.684  |
+| TOOD-r50| Val |   300  | 0.690  |
 
 ### Visual results
 
