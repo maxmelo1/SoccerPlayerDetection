@@ -13,11 +13,12 @@ Models evaluated: YOLO v8, RTMDet and TOOD.
 
 ## Results
 
-| Model   | Set | Epochs | MAP-50 |
-|---------|-----|--------|--------|
-| RTMDet  | Val |   300  | 0.785  |
-| YOLO v8 | Val |   300  | 0.962  |
-| TOOD-r50| Val |   300  | 0.690  |
+| Model    | Set | Epochs | MAP-50 |
+|----------|-----|--------|--------|
+| RTMDet   | Val |   300  | 0.785  |
+| YOLO v8  | Val |   300  | 0.962  |
+| TOOD-r50 | Val |   300  | 0.690  |
+| TOOD-r101| Val |   300  | 0.706  |
 
 ### Visual results
 
