@@ -19,6 +19,7 @@ Models evaluated: YOLO v8, RTMDet and TOOD.
 | YOLO v8  | Val |   300  | 0.962  |
 | TOOD-r50 | Val |   300  | 0.690  |
 | TOOD-r101| Val |   300  | 0.706  |
+| ATSS-r50 | Val |   300  | 0.6120  |
 
 ### Visual results
 
