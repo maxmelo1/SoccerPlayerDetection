@@ -21,6 +21,7 @@ Models evaluated: YOLO v8, RTMDet, TOOD and ATSS.
 | TOOD-r101| Val |   300  | 0.706  |
 | ATSS-r50 | Val |   300  | 0.612  |
 | ATSS-r101| Val |   300  | 0.700  |
+| Efficientnet-retinanet| Val |   300  | 0.904  |
 
 ### Visual results
 
